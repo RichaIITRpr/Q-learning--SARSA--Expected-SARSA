@@ -1,4 +1,4 @@
-# Q-learning--SARSA--SARSA(lambda)--Expected-SARSA
+# Q-learning__SARSA__SARSA(lambda)__Expected-SARSA
 1. CliffWalking Environment: Implementing Q-learning algorithm in python in the CliffWalking environment with different parameter values.
 
 * Implemented a Q-learning agent using a purely random behavior policy for the following learning rates α = [0.0005,0.005,0.01,0.07,0.1]. Studying the effect of α on Q-learning and demonstrating it using plots. Plotting the learning curve of the policies learnt in each case using episode vs. avg reward/episode.
